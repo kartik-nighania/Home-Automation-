@@ -1,10 +1,13 @@
 #'Home Automation & Security using capacitive touch sensing tiles'
 # Runners up in All India Atmel Embedded Design Contest :D
 
-we were able to sense human presence even 12 cm below the floor tiles .. making it more way sensitive than touch screen .. 
+we were able to sense human presence even 12 cm below the floor tiles .. making it more way sensitive than touch screens .. 
+Then using this data and other temperature and light sensors were able to make a full home automation system with security like nightwatch etc modes..
 
 controllers -
-Mater Board - Sam D21 32-bit arm based 
+
+Master Board - Sam D21 32-bit arm based 
+
 Slave Board - Arduino Uno (one for each room) 8-bit AVR 328p based
 
 The all India Atmel Embedded Design Contest started by short-listing top 100 teams and then giving kits for implementation of their project idea and further top 10 entries all over India..
