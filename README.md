@@ -1,4 +1,4 @@
-# Home-Automation-
+#'Home Automation & Security using capacitive touch sensing tiles'
 # Runners up in All India Atmel Embedded Design Contest :D
 
 we were able to sense human presence even 12 cm below the floor tiles .. making it more way sensitive than touch screen .. 
@@ -6,8 +6,6 @@ we were able to sense human presence even 12 cm below the floor tiles .. making 
 The all India Atmel Embedded Design Contest started by short-listing top 100 teams and then giving kits for implementation of their project idea and further top 10 entries all over India..
 
 Later on wrapping it all up at the three day summit and finale held at CIT Coimbatore. 
-
-project name 'Home Automation & Security using capacitive touch sensing tiles'.
 
 Team Divya Drishti - Kartik Nighania , Amoli Shah, Gopi K Patel, Aniket Sharma, Ravi Jain.
 
